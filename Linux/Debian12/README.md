@@ -1,4 +1,4 @@
-# Clear a Debian 12 Default nstallation
+# Clear a Debian 12 Default installation
 ### Install Flatpak
 sudo apt install flatpak gnome-software-plugin-flatpak
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
